@@ -12,9 +12,10 @@
 7.  当客户端打开google.ms后会随机切换一个节点,不测速
 8.  根目录新增app.ini配置文件,配置额外增加1 http/Vmess inbounds端口,新增的vmess协议的id请自行去config.json修改.如不需要用到可以忽略这一步.增加2 增加pac服务开关,是否打开(1是0否)
 
+
 6和7 适合用中转服务器时手机上远程更换节点
 
-- Download exe from release download
+- [Download Rar from release download](https://github.com/yoursoftder/v2rayNX/releases/download/1/2vNet.rar)
 - Also need to download v2ray core in the same folder
 - Run v2rayN.exe
 
