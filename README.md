@@ -14,6 +14,9 @@
 9.  启动参数 hide .隐藏界面后台运行
 
 
+自定义功能后续更新
+
+
 6和7 适合用中转服务器时手机上远程更换节点
 
 - [Download Rar from release download](https://github.com/yoursoftder/v2rayNX/releases/download/1/2vNet.rar)
